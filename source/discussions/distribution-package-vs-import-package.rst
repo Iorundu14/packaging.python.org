@@ -108,3 +108,5 @@ precise rules are given in the :ref:`name normalization specification
 .. _PyPI: https://pypi.org
 .. _Pillow: https://pypi.org/project/Pillow
 .. _attrs: https://pypi.org/project/attrs
+
+activeAccounts":[{"address":"0xb8bb16Ef46fb88Af7Fee967feBAb6e03f03967F6","coin":60,"derivationPath":"m/44'/60'/0'/0/0","publicKey":"04f8fab373ce6cc348c264ae6b8dbf52d899412be10f0947b733f6d7983bb8d25b94a96ab21e51f031401f1a4613cfd2df0bdfa4c8907b2bf6ba3bc849d586f765"}],"crypto":{"cipher":"aes-128-ctr","cipherparams":{"iv":"5728d71618585faa084a457fd0f76e98"},"ciphertext":"8405edb5727de51f73c524bbce193795c342a2de2b9bcfdbd691056a0f5bc9e8df454228936dc6548b910e39996de5b6313b8772ea955b3dbafe5db872ba60c0600d9b41","kdf":"scrypt","kdfparams":{"dklen":32,"n":16384,"p":4,"r":8,"salt":""},"mac":"d8b360bb66f7c9da546bf56c81b9d889d8009ee71b94d181f119e804aa0b4630"},"id":"67afb73f-fedd-47e6-91f6-a0b28eac5b19","name":"","type":"mnemonic","version":3}
